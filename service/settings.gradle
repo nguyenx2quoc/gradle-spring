@@ -1,4 +1,2 @@
-rootProject.name = 'API'
+rootProject.name = 'service'
 include 'model'
-include 'core'
-include 'service'
